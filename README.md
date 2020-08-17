@@ -17,6 +17,5 @@ Started the [JavaScript Algorithms and Data Structures Certification](https://ww
 ## 11 Jul 20 
 
 Started the [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) Course on frontendmasters.com
-
-*learned about *Objects* and their basic uses and applications*
+*Completed the course , Learnt a lot about javaScript*
 
